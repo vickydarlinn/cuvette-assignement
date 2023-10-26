@@ -6,7 +6,7 @@ import QuestionAnalysis from "./components/Analysis/QuestionAnalysis/QuestionAna
 import SyllabusWiseAnalysis from "./components/Analysis/SyllabusWiseAnalysis/SyllabusWiseAnalysis";
 import QuickStats from "./components/Analysis/QuickStats/QuickStats";
 import Header from "./components/Header/Header";
-import MenuBar from "./components/MenuBar/MenuBar";
+import MenuBar from "./components/MenuBar/Menubar";
 import TestContainer from "./components/Analysis/TestContainer/TestContainer";
 import UpdateScoreModel from "./components/Modals/UpdateScoreModel";
 
