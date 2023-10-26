@@ -1,0 +1,32 @@
+.container {
+  border: 1px solid #ebf0f5;
+  padding: 20px;
+  border-radius: 10px;
+}
+.info {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 30px 0;
+}
+.heading {
+  font-size: 16px;
+  color: #1e272e;
+  font-weight: bold;
+  margin: 20px 0;
+}
+.para {
+  color: #566474;
+}
+.photo_container {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  background: #ebf0f5;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.photo {
+  width: 20px;
+}

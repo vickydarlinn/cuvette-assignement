@@ -1,0 +1,43 @@
+/* SyllabusWiseAnalysis.module.css */
+
+.container {
+  border: 1px solid #ebf0f5;
+  padding: 20px;
+  border-radius: 10px;
+}
+.title {
+  margin-bottom: 20px;
+}
+.bars {
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+}
+.progress_container {
+  display: flex;
+  align-items: center;
+  font-weight: bold;
+  gap: 30px;
+}
+.progress_bar {
+  width: 100%;
+  height: 10px;
+  border-radius: 20px;
+  background-color: #edf3fe;
+  overflow: hidden;
+}
+
+.progress {
+  height: 100%;
+  border-radius: 20px;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 18px;
+  color: white;
+  transition: width 1s ease-in-out;
+}
+.progress_heading {
+  color: #566474;
+}

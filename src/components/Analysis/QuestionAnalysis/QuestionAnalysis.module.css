@@ -1,0 +1,28 @@
+.container {
+  border: 1px solid #ebf0f5;
+  padding: 20px;
+  border-radius: 10px;
+}
+.info {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 20px 0;
+}
+.info h2 {
+  color: #1e272e;
+  font-size: 16px;
+  font-weight: bold;
+}
+.info span {
+  color: #438af6;
+  font-weight: bold;
+  font-size: 16px;
+}
+.para {
+  color: #566474;
+  font-size: 14px;
+}
+.para span {
+  font-weight: bold;
+}

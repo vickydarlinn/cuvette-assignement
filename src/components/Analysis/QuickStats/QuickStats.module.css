@@ -1,0 +1,31 @@
+.container {
+  border: 1px solid #ebf0f5;
+  padding: 20px;
+  border-radius: 10px;
+}
+.heading {
+  color: #1e272e;
+  font-weight: bold;
+  margin: 10px 0;
+  margin-bottom: 20px;
+}
+.stats_container {
+  display: flex;
+  justify-content: space-between;
+}
+.stats_item_container {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+}
+.stats_image {
+  width: 50px;
+}
+.stats_name {
+  font-size: 12px;
+  color: #9eaab7;
+}
+.stats_info {
+  display: flex;
+  flex-direction: column;
+}
